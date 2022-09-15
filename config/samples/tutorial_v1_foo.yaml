@@ -1,0 +1,6 @@
+apiVersion: tutorial.neelanjan.dev/v1
+kind: Foo
+metadata:
+  name: foo-sample
+spec:
+  # TODO(user): Add fields here
